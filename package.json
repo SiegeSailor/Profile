@@ -1,0 +1,20 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "A SSR web application for career resume and personal notes.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiegeSailor/Profile.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "SiegeSailor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiegeSailor/Profile/issues"
+  },
+  "homepage": "https://github.com/SiegeSailor/Profile#readme"
+}
