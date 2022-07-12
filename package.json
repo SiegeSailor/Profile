@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SiegeSailor/Profile/issues"
   },
-  "homepage": "https://github.com/SiegeSailor/Profile#readme"
+  "homepage": "https://github.com/SiegeSailor/Profile#readme",
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.7.4"
+  }
 }
